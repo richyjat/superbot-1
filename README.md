@@ -58,3 +58,10 @@
 # Built with
 * [Discord.js](https://discord.js.org/#/)
 * [Node js](https://nodejs.org/en/)
+
+# Donation
+* [Donation](https://p-y.tm/emul-1U)
+
+# Note
+* If any issue is getting and you have idea some regards commands to add kinly mail us.
+* [Mail](managersuperbot@gmail.com)
